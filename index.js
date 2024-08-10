@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   const homedata = {
-    desc: 'Fueled by a passion for innovation, Im a tech-savvy entrepreneur driven to digitally transform organizations in the AI, ML, and IoT space. With over 5 years of experience, Ive honed my skills in developing cutting-edge solutions and a user-centric mindset. Now, as the founder of Khooobsooorat, Im taking my drive for innovation to new heights, building bridges between audiences and brands while keeping the user experience at the forefront of every decision. '
+    desc: 'I am a self-employed FrontEnd web developer with two years of experience of working and making projects in the field. My passion for programming and web development drives your work. I am specialize in HTML, CSS, and JavaScript, sculpting user interfaces that are both captivating and functional. With Bootstrap and Tailwind CSS, I infuse projects with style and adaptability. And Javascript library like ReactJS and Redux for state management. My journey showcases the dedication to mastering the intricacies of web development and my commitment to staying at the forefront of this dynamic industry. '
   };
   document.getElementById('personaldata').innerHTML = `
   <p>${homedata.desc}</p>
